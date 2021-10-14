@@ -49,7 +49,7 @@ colorCode = tmpColor ;
 Widget build(BuildContext context) {
 return Scaffold(
 backgroundColor: colorCode,
-appBar: AppBar(title: Text('Background Color')),
+appBar: AppBar(title: Text('I Am Poor')),
 body: Center(
 child: Container(
 margin: const EdgeInsets.fromLTRB(10, 0, 10, 0),
